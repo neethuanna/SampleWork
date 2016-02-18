@@ -1,10 +1,2 @@
 node_modules/
-npm-debug.log
-vendor/
-.idea/encodings.xml
-.idea/modules.xml
-.idea/status-reports.iml
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/jsLibraryMappings.xml
-.idea/libraries/status_reports_node_modules.xml
+launch.json
