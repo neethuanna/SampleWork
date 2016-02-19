@@ -17,12 +17,16 @@
   },
   "homepage": "https://github.com/neethuanna/SampleWork#readme",
   "devDependencies": {
+    "body-parser": "^1.15.0",
     "cansecurity": "^1.0.0",
     "connect": "^3.4.1",
     "cookie-parser": "^1.4.1",
+    "cookie-session": "^1.2.0",
+    "ejs": "^2.4.1",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
     "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
     "socket.io": "^1.4.5"
   }
 }
